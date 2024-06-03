@@ -3,13 +3,6 @@
 
 This program automates the process of detecting a specific template (e.g., subtitles in a video) within a defined screen region and performs actions based on the detection results. It utilizes the OpenCV library for image processing, PyAutoGUI for screen interactions, and Tkinter for region selection.
 
-### Table of Contents
-
-1. [Prerequisites](#prerequisites)
-2. [Setup](#setup)
-3. [Usage](#usage)
-4. [Functions Overview](#functions-overview)
-5. [Troubleshooting](#troubleshooting)
 
 ### Prerequisites
 
